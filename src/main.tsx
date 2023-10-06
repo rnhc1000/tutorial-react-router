@@ -8,6 +8,7 @@ import {
 
 import Expenses from '../routes/Expenses';
 import Invoices from '../routes/Invoices';
+import NotFound from '../routes/NotFound';
 
 import App from './App.tsx'
 
@@ -18,6 +19,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
         <Route path="/" element={<App />} >
           <Route path="expenses" element={<Expenses />} />
           <Route path="invoices" element={<Invoices />} />
+          <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
     </BrowserRouter>
