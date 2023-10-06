@@ -20,6 +20,6 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
           <Route path="invoices" element={<Invoices />} />
         </Route>
       </Routes>
-    </BrowserRouter>,
-  </React.StrictMode>,
+    </BrowserRouter>
+  </React.StrictMode>
 )
