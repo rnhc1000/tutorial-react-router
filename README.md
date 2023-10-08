@@ -1,7 +1,8 @@
-# React Router DOM + TypeScript + Vite
+## React Router DOM + TypeScript + Vite
 
-WARNING: This is the steps taken to complete the original React-Router-DOM tutorial as available at
-[https://reactrouter.com/en/v6.3.0/getting-started/tutorial]
+### WARNING: 
+- These are the steps I took to complete the original React-Router-DOM tutorial as available at
+[https://reactrouter.com/en/v6.3.0/getting-started/tutorial], guided by @devsuperior.
 Check the commit logs to learn the solution for every step taken.
 
 React Router is a fully-featured client and server-side routing library for React, a JavaScript library for building user interfaces. React Router runs anywhere React runs; on the web, on the server with node.js, and on React Native.
