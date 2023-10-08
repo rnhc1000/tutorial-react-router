@@ -26,11 +26,7 @@ While building a little bookkeeping app we'll cover:
 ## _Built with_
 | ReactRouter | ReactJS | Vite | Yarn | TypeScript | JavaScript | Visual Studio
 |----------|----------|----------|----------|----------|----------|----------|
- ![](https://ferreiras.dev.br/assets/images/icons/react-router-stacked-color-inverted.svg) | ![](https://ferreiras.dev.br/assets/images/icons
-/react.svg) | ![](https://ferreiras.dev.br/assets/images/icons/vite.svg) | ![](https://ferreiras.dev.br/assets/images/
-icons/yarn-title.svg) | ![](https://ferreiras.dev.br/assets/images/icons/ts-logo.svg) | ![](https://ferreiras.dev.br/a
-ssets/images/icons/icons8-javascript.svg) | ![](https://ferreiras.dev.br/assets/images/icons/icons8-visual-studio-code
-.svg) 
+![](https://ferreiras.dev.br/assets/images/icons/react-router-stacked-color-inverted.svg)|![](https://ferreiras.dev.br/assets/images/icons/react.svg)|![](https://ferreiras.dev.br/assets/images/icons/vite.svg)|![](https://ferreiras.dev.br/assets/images/icons/yarn-title.svg)|![](https://ferreiras.dev.br/assets/images/icons/ts-logo.svg)|![](https://ferreiras.dev.br/assets/images/icons/icons8-javascript.svg)|![](https://ferreiras.dev.br/assets/images/icons/icons8-visual-studio-code.svg)
 
 ### _Useful resources_
 - [https://reactrouter.com/] React Router enables "client side routing".
