@@ -1,7 +1,8 @@
-# React Router DOM + TypeScript + Vite
+## React Router DOM + TypeScript + Vite
 
-WARNING: This is the steps taken to complete the original React-Router-DOM tutorial as available at
-[https://reactrouter.com/en/v6.3.0/getting-started/tutorial]
+### WARNING: 
+- These are the steps I took to complete the original React-Router-DOM tutorial as available at
+[https://reactrouter.com/en/v6.3.0/getting-started/tutorial], guided by @devsuperior.
 Check the commit logs to learn the solution for every step taken.
 
 React Router is a fully-featured client and server-side routing library for React, a JavaScript library for building user interfaces. React Router runs anywhere React runs; on the web, on the server with node.js, and on React Native.
@@ -26,11 +27,7 @@ While building a little bookkeeping app we'll cover:
 ## _Built with_
 | ReactRouter | ReactJS | Vite | Yarn | TypeScript | JavaScript | Visual Studio
 |----------|----------|----------|----------|----------|----------|----------|
- ![](https://ferreiras.dev.br/assets/images/icons/react-router-stacked-color-inverted.svg) | ![](https://ferreiras.dev.br/assets/images/icons
-/react.svg) | ![](https://ferreiras.dev.br/assets/images/icons/vite.svg) | ![](https://ferreiras.dev.br/assets/images/
-icons/yarn-title.svg) | ![](https://ferreiras.dev.br/assets/images/icons/ts-logo.svg) | ![](https://ferreiras.dev.br/a
-ssets/images/icons/icons8-javascript.svg) | ![](https://ferreiras.dev.br/assets/images/icons/icons8-visual-studio-code
-.svg) 
+![](https://ferreiras.dev.br/assets/images/icons/react-router-stacked-color-inverted.svg)|![](https://ferreiras.dev.br/assets/images/icons/react.svg)|![](https://ferreiras.dev.br/assets/images/icons/vite.svg)|![](https://ferreiras.dev.br/assets/images/icons/yarn-title.svg)|![](https://ferreiras.dev.br/assets/images/icons/ts-logo.svg)|![](https://ferreiras.dev.br/assets/images/icons/icons8-javascript.svg)|![](https://ferreiras.dev.br/assets/images/icons/icons8-visual-studio-code.svg)
 
 ### _Useful resources_
 - [https://reactrouter.com/] React Router enables "client side routing".
