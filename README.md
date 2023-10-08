@@ -1,27 +1,46 @@
-# React + TypeScript + Vite
+# React Router DOM + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WARNING: This is the steps taken to complete the original React-Router-DOM tutorial as available at
+[https://reactrouter.com/en/v6.3.0/getting-started/tutorial]
+Check the commit logs to learn the solution for every step taken.
 
-Currently, two official plugins are available:
+React Router is a fully-featured client and server-side routing library for React, a JavaScript library for building user interfaces. React Router runs anywhere React runs; on the web, on the server with node.js, and on React Native.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you're just getting started with React generally, we recommend you follow the excellent Getting Started guide in the official docs. There is plenty of information there to get you up and running. React Router is compatible with React >= 16.8.
 
-## Expanding the ESLint configuration
+We'll keep this tutorial quick and to the point. By the end you'll know the APIs you deal with day-to-day with React Router. After that, you can dig into some of the other docs to get a deeper understanding.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## _Table of contents_
+While building a little bookkeeping app we'll cover:
 
-- Configure the top-level `parserOptions` property like this:
+- Configuring Routes
+- Navigating with Link
+- Creating Links with active styling
+- Using Nested Routes for Layout
+- Navigating programmatically
+- Using URL params for data loading
+- Using URL Search params
+- Creating your own behaviors through composition
+- Server Rendering
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## _Built with_
+| ReactRouter | ReactJS | Vite | Yarn | TypeScript | JavaScript | Visual Studio
+|----------|----------|----------|----------|----------|----------|----------|
+ ![](https://ferreiras.dev.br/assets/images/icons/react-router-stacked-color-inverted.svg) | ![](https://ferreiras.dev.br/assets/images/icons
+/react.svg) | ![](https://ferreiras.dev.br/assets/images/icons/vite.svg) | ![](https://ferreiras.dev.br/assets/images/
+icons/yarn-title.svg) | ![](https://ferreiras.dev.br/assets/images/icons/ts-logo.svg) | ![](https://ferreiras.dev.br/a
+ssets/images/icons/icons8-javascript.svg) | ![](https://ferreiras.dev.br/assets/images/icons/icons8-visual-studio-code
+.svg) 
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### _Useful resources_
+- [https://reactrouter.com/] React Router enables "client side routing".
+- [https://reactjs.org] React lets you build user interfaces out of individual pieces called components!.
+- [https://yarnpkg.org/] Open-source package manager used to manage dependencies in  JavaScript.
+- [https://vitejs.dev/guide/] Build tool that aims to provide a faster and leaner development experience for modern web projects.
+## _Author_
+- Website - [https://ferreiras.dev.br] 
+## Acknowledgments
+- @devsuperior
+
+
+
